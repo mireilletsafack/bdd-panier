@@ -1,0 +1,22 @@
+{
+  "name": "bdd-panier",
+  "version": "1.0.0",
+  "description": "Projet BDD Cucumber pour tester les fonctionnalités du panier",
+  "main": "src/panier.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "keywords": [
+    "BDD",
+    "Cucumber",
+    "JavaScript",
+    "Panier",
+    "Tests"
+  ],
+  "author": "Votre Nom",
+  "license": "ISC",
+  "devDependencies": {
+    "@cucumber/cucumber": "^9.0.0"
+  },
+  "type": "commonjs"
+}
